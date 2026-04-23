@@ -19,7 +19,9 @@ This project analyzes road accident trends across India using an interactive das
 - Dash
 
 ## 📷 Dashboard Preview
-(Add screenshots here)
+![Dashboard](screenshots/img1.png)
+![Dashboard](screenshots/img2.png)
+![Dashboard](screenshots/img3.png)
 
 ## ▶️ Run Locally
 pip install -r requirements.txt  
